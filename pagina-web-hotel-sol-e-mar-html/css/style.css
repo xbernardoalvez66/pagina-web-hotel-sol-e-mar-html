@@ -185,7 +185,7 @@ font-weight: 400;
 .grid{
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 0.5rem 5rem 0.5rem ;
+    padding: 0 0.5rem 5rem 0.5rem;
     gap: 1rem;
     display: flex;
     justify-content: space-around;
